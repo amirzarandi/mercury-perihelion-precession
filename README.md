@@ -1,2 +1,2 @@
-# mercury-perihelion-precession
-The perihelion precession of Mercury: An exploration of numerical simulations in Python
+# The perihelion precession of Mercury: An exploration of numerical simulations in Python
+Numerical simulations are playing an increasingly important role in modern science, especially physics. In this project, a numerical study of the famous perihelion motion of the planet Mercury (one of the prime observables supporting Einstein's General Relativity) is demonstrated as a test case for numerical simulations in Python. The paper includes details about the development of the code as well as a discussion of the visualization of the results.
